@@ -1,0 +1,12 @@
+*Image segmentation Algos:
+-Threshholding
+-histogram-based bundling
+-region growing
+-k-means clustering
+-watersheds
+
+*More advanced algos are based on:
+-active contours
+-grapgh cuts
+-conditional and markov random fields 
+-sparsity-based
